@@ -3,7 +3,7 @@
 ## About Me 
 Hi! I'm Juan Pablo (but you can call me Juan or Juampi), a passionate programmer. I love computers, programming, video games, music, traveling, astronomy, soccer, and spending time with my loved ones.
 
-- 🔭 I’m currently working on two projects: my personal portfolio and a web application called "Betelgeuse Status" that shows updated data about that star.
+- 🔭 I’m currently working on two projects: my portfolio and a web application called "Betelgeuse Status" that shows updated data about that star.
 - 🤔 I’m seeking help with the backend of "Betelgeuse Status".
 - 🌱 I’m currently learning Java.
 
