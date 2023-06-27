@@ -32,7 +32,7 @@ Feel free to explore these repositories and check out their respective README fi
 ## Contact
 📫 You can contact me at:
 - LinkedIn: https://www.linkedin.com/in/juanps94/
-- Twitter: (coming soon...!)
+- Twitter: https://twitter.com/juampi_dev
 - Email: juanps.rt@gmail.com
 
 Feel free to reach out if you want to know me a little better or have any questions, or suggestions, or just want to chat about web/software development. I'd be happy to hear from you!
