@@ -27,13 +27,13 @@ Feel free to explore these repositories and check out their respective README fi
 - **Development Methodologies**: I am open to learning and applying various development approaches in my projects, adapting as needed to ensure efficiency and quality throughout the development process.
 
 ## Collaboration
-- 👯 I am open to collaborating on interesting and challenging projects! If you're working on something exciting and think I can contribute, feel free to [contact me](mailto:juanps.rt@gmail.com).
+- 👯 I am open to collaborating on interesting and challenging projects! If you're working on something exciting and think I can contribute, feel free to [contact me](mailto:dev.juampi@gmail.com).
 
 ## Contact
 📫 You can contact me at:
 - LinkedIn: https://www.linkedin.com/in/juanps94/
 - Twitter: https://twitter.com/juampi_dev
-- Email: juanps.rt@gmail.com
+- Email: dev.juampi@gmail.com
 
 Feel free to reach out if you want to know me a little better or have any questions, or suggestions, or just want to chat about web/software development. I'd be happy to hear from you!
 
