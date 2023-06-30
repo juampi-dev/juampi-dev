@@ -27,7 +27,7 @@ Feel free to explore these repositories and read their respective README files f
 ## Technical Skills
 
 - **Programming Languages**: JavaScript, Python, Java, TypeScript, HTML, CSS.
-- **Technologies and Tools**: I proficiently utilize Visual Studio Code, Figma, Node.js, React, Next.js, Tailwind CSS, Bootstrap, Git, and various AWS Services.
+- **Technologies and Tools**: I primarily use Visual Studio Code, Figma, Node.js, React, Next.js, Tailwind CSS, Bootstrap, Git, and various AWS Services.
 - **Development Methodologies**: I embrace and adapt to various development approaches in my projects, ensuring efficiency and sustaining high quality throughout the process.
 
 ## Collaboration
