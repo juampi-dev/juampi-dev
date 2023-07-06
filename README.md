@@ -19,7 +19,7 @@
 
 Hello everybody! I'm **Juan Pablo**, but you can call me **Juan** or **Juampi**. I'm a passionate **programmer** with a deep love for computers, programming, video games, music, traveling, astronomy, and soccer. I also like spending quality time with my loved ones.
 
-- 🔭 I'm currently engaged in two exciting projects: developing **my portfolio** and working on a web application named "Betelgeuse Status." This application provides updated data about the fascinating star Betelgeuse.
+- 🔭 I'm currently engaged in two exciting projects: developing **my web portfolio** and working on an application named "Betelgeuse Status." This application provides updated data about the fascinating star Betelgeuse.
 - 🤔 I'm seeking assistance with the backend development of "Betelgeuse Status". So I'd greatly appreciate any help you can provide me!
 - 🌱 I'm focused on expanding my knowledge of Java by studying and building projects.
 
@@ -47,7 +47,7 @@ If you wish, you can explore these repositories and read their respective README
 
 ## Collaboration
 
-👯 I am open to new thrilling challenges! If you're engaged in a project and believe my skills can contribute, please don't hesitate to **[contact me](mailto:dev.juampi@gmail.com)**.
+👯 I am open to new thrilling challenges! If you're engaged in a project and believe my skills can contribute, please don't hesitate to **[contact me](mailto:juanps.rt@gmail.com)**.
 
 # **Contact**
 
@@ -56,7 +56,7 @@ If you wish, you can explore these repositories and read their respective README
 
 - **LinkedIn**: https://www.linkedin.com/in/juanps94/
 - **Twitter**: https://twitter.com/juampi_dev
-- **Email**: dev.juampi@gmail.com
+- **Email**: juanps.rt@gmail.com
 
 Feel free to reach out if you'd like to get to know me better, have any questions or suggestions, or simply want to engage in a conversation about web/software development. I'd be glad to hear from you!
 
