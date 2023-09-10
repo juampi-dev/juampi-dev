@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Juampi.dev</h1>
+<h1 align="center">Hi! 👋 I'm Juampi</h1>
 <h2 align="center">Frontend Developer, QA + Automation & AWS Cloud Practitioner from Argentina</h2>
 
 <h3 align="left">Connect with me:</h3>
