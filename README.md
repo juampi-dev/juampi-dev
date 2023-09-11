@@ -64,7 +64,7 @@ If you'd like, you can explore these repositories and read their respective READ
 
 - **LinkedIn**: https://www.linkedin.com/in/juanps94/
 - **Twitter**: https://twitter.com/juampi_dev
-- **Email**: juanps.rt@gmail.com
+- **Email**: juanpablo.sinkachkuk@conocimiento.gob.ar
 
 Feel free to reach out if you'd like to get to know me better, have any questions or suggestions, or simply want to engage in a conversation about web/software development. I'd be glad to hear from you!
 
