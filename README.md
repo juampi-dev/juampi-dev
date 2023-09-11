@@ -55,7 +55,7 @@ If you'd like, you can explore these repositories and read their respective READ
 
 ## Collaboration
 
-👯 I am open to new thrilling challenges! If you're engaged in a project and believe my skills can contribute, please don't hesitate to **[contact me](mailto:juanps.rt@gmail.com)**.
+👯 I am open to new thrilling challenges! If you're engaged in a project and believe my skills can contribute, please don't hesitate to **[contact me](mailto:juanpablo.sinkachkuk@conocimiento.gob.ar)**.
 
 # **Contact**
 
