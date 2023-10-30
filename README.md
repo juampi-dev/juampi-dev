@@ -32,7 +32,7 @@ Hello everybody! I'm **Juan Pablo**, but you can call me **Juan** or **Juampi**.
 
 Here are some projects I've been working on:
 
-1. **[accMantenimiento](https://github.com/juan-ps/accMantenimiento)**: This ongoing Python project, developed by me, serves as a maintenance and diagnostic tool for Windows systems. I created it independently to streamline my daily tasks at Agencia Comodoro Conocimiento, enabling me to perform various common administrative and troubleshooting tasks quickly and efficiently through the command line.
+1. **[accMantenimiento](https://github.com/juampi-dev/accMantenimiento)**: This ongoing Python project, developed by me, serves as a maintenance and diagnostic tool for Windows systems. I created it independently to streamline my daily tasks at Agencia Comodoro Conocimiento, enabling me to perform various common administrative and troubleshooting tasks quickly and efficiently through the command line.
 
    **Key Features:**
    - Perform diagnostics and maintenance on your Windows system with ease.
@@ -41,9 +41,9 @@ Here are some projects I've been working on:
 
    This repository is constantly evolving, with regular updates that introduce new features and enhancements.
 
-2. **[Frontend Mentor Challenges](https://github.com/juan-ps/frontend-mentor-challenges)**: This repository showcases a collection of web components that I developed inspired by the challenges from Frontend Mentor. In addition to improving my frontend skills and implementing best practices, these projects provide an extensive opportunity to explore Next.js and TypeScript in depth.
+2. **[Frontend Mentor Challenges](https://github.com/juampi-dev/frontend-mentor-challenges)**: This repository showcases a collection of web components that I developed inspired by the challenges from Frontend Mentor. In addition to improving my frontend skills and implementing best practices, these projects provide an extensive opportunity to explore Next.js and TypeScript in depth.
 
-3. **[QA - Globant - Egg](https://github.com/juan-ps/qaGlobantEgg)**: This repository contains a list of exercises and challenges from the QA + Automation course at Globant University / EGG Cooperation. The class has given me a solid foundation in programming, enabling me to reinforce my logical thinking and programming knowledge. Additionally, it offered an in-depth exploration of Java, facilitating a deeper understanding of the language.
+3. **[QA - Globant - Egg](https://github.com/juampi-dev/qaGlobantEgg)**: This repository contains a list of exercises and challenges from the QA + Automation course at Globant University / EGG Cooperation. The class has given me a solid foundation in programming, enabling me to reinforce my logical thinking and programming knowledge. Additionally, it offered an in-depth exploration of Java, facilitating a deeper understanding of the language.
 
 If you'd like, you can explore these repositories and read their respective README files for detailed information about each project's contents and my approach to its development.
 
@@ -67,9 +67,5 @@ If you'd like, you can explore these repositories and read their respective READ
 - **Email**: juanpablo.sinkachkuk@conocimiento.gob.ar
 
 Feel free to reach out if you'd like to get to know me better, have any questions or suggestions, or simply want to engage in a conversation about web/software development. I'd be glad to hear from you!
-
-------------------------
-
-⚡ Thanks for visiting my **GitHub** profile, and I hope you like my projects! ⚡
 
 ------------------------
